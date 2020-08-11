@@ -20,6 +20,7 @@ $link-hover: #222;
 @import "bulma";
 @import "functions";
 
+
 .notification {
 	border-radius: 0;
 }
@@ -39,12 +40,12 @@ $link-hover: #222;
 	min-height: 375px;
 
 	.title {
-	line-height: 1.6rem;
+		line-height: 1.6rem;
 	}
 	.price {
-	position: absolute;
-	bottom: 10px;
-	right: 10px;
+		position: absolute;
+		bottom: 10px;
+		right: 10px;
 	}
 }
 
@@ -62,9 +63,9 @@ $link-hover: #222;
 	}
 
 	.condition {
-	position: absolute;
-	bottom: 10px;
-	right: 9px;
+		position: absolute;
+		bottom: 10px;
+		right: 9px;
 	}
   }
 }

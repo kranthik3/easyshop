@@ -1,0 +1,233 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"label",
+				"label_html"
+			],
+			[
+				"file_",
+				"file_watcher"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"capy",
+				"capybara"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/KranthiK/flanger/app/uploaders/image_uploader.rb",
+		"/C/Users/KranthiK/flanger/config/routes.rb",
+		"/C/Users/KranthiK/flanger/app/views/instruments/index.html.erb",
+		"/C/Users/KranthiK/flanger/app/views/instruments/show.html.erb",
+		"/C/Users/KranthiK/flanger/app/views/layouts/application.html.erb",
+		"/C/Users/KranthiK/flanger/config/environments/development.rb",
+		"/C/Users/KranthiK/flanger/app/models/instrument.rb",
+		"/C/Users/KranthiK/flanger/app/views/instruments/_form.html.erb",
+		"/C/Users/KranthiK/flanger/app/javascript/channels/instruments.js",
+		"/C/Users/KranthiK/flanger/Gemfile",
+		"/C/Users/KranthiK/flanger/db/migrate/20200712170755_add_user_id_to_instruments.rb",
+		"/C/Users/KranthiK/flanger/app/controllers/instruments_controller.rb",
+		"/C/Users/KranthiK/flanger/app/assets/stylesheets/instruments.scss",
+		"/C/Users/KranthiK/flanger/node_modules/merge-descriptors/README.md",
+		"/C/Users/KranthiK/flanger/app/assets/stylesheets/application.scss",
+		"/C/Users/KranthiK/flanger/app/views/devise/registrations/new.html.erb",
+		"/C/Users/KranthiK/flanger/db/schema.rb",
+		"/C/Users/KranthiK/flanger/app/helpers/instruments_helper.rb",
+		"/C/Users/KranthiK/flanger/db/migrate/20200710122310_add_name_to_users.rb",
+		"/C/Users/KranthiK/flanger/app/views/instruments/new.html.erb",
+		"/C/Users/KranthiK/flanger/app/views/instruments/edit.html.erb",
+		"/C/Users/KranthiK/flanger/node_modules/@rails/webpacker/package/rules/file.js",
+		"/C/Users/KranthiK/flanger/node_modules/coa/lib/cmd.js",
+		"/C/Users/KranthiK/flanger/node_modules/css-loader/dist/index.js",
+		"/C/Users/KranthiK/flanger/app/views/instruments/index.json.jbuilder",
+		"/C/Users/KranthiK/flanger/app/models/user.rb",
+		"/C/Users/KranthiK/flanger/db/migrate/20200712155426_create_instruments.rb",
+		"/C/Users/KranthiK/flanger/app/controllers/registrations_controller.rb",
+		"/C/Users/KranthiK/flanger/app/models/application_record.rb",
+		"/C/Users/KranthiK/flanger/app/controllers/store_controller.rb",
+		"/C/Users/KranthiK/flanger/lib/templates/erb/scaffold/_form.html.erb",
+		"/C/Users/KranthiK/flanger/app/assets/stylesheets/_functions.scss",
+		"/C/Users/KranthiK/flanger/app/views/devise/confirmations/new.html.erb",
+		"/C/Users/KranthiK/flanger/config/initializers/assets.rb",
+		"/C/Users/KranthiK/flanger/db/migrate/2020070908460_add_name_to_users.rb",
+		"/C/Users/KranthiK/flanger/app/controllers/concerns/store_controller.rb",
+		"/C/Users/KranthiK/Desktop/rubyBox/webapp/app/views/users/new.html.erb",
+		"/C/Users/KranthiK/Desktop/rubyBox/webapp/app/views/home/index.html.erb",
+		"/C/Users/KranthiK/Desktop/rubyBox/webapp/app/controllers/application_controller.rb",
+		"/C/Users/KranthiK/Desktop/rubyBox/webapp/config/routes.rb",
+		"/C/Users/KranthiK/Desktop/rubyBox/webapp/app/views/sessions/new.html.erb",
+		"/C/Users/KranthiK/Desktop/rubyBox/webapp/app/controllers/sessions_controller.rb",
+		"/C/Users/KranthiK/Desktop/rubyBox/webapp/app/models/user.rb",
+		"/C/Users/KranthiK/Desktop/rubyBox/webapp/Gemfile",
+		"/C/ruby-for-everyone/hello.rb",
+		"/C/Users/KranthiK/shopper/Gemfile",
+		"/C/Users/KranthiK/shopper/config/routes.rb",
+		"/C/Users/KranthiK/shopper/config/database.yml",
+		"/C/Users/KranthiK/shopper/app/views/home/index.html.erb",
+		"/C/railstest/tester/Gemfile",
+		"/C/railstest/tester/config/database.yml",
+		"/C/ruby-for-everyone/Desktop/railsbox/demo2/Gemfile",
+		"/C/ruby-for-everyone/file2.rb"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "instruments.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

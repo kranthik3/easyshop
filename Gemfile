@@ -23,20 +23,21 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use Active Storage variant
-# gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.2'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
 # gem 'bulma-rails', '~> 0.6.1'
- gem "bulma-rails", "~> 0.8.0"
+gem "bulma-rails", "~> 0.9.0"
 # gem 'simple_form', '~> 3.5'
-# gem 'simple_form'
+gem 'simple_form', '~> 4.1.0'
 gem 'devise', '~> 4.4'
-# gem 'gravater_image_tag', '~> 1.2'
-# gem 'carrierwave'
-# gem 'mini_magick'
-# gem 'devise'
+gem 'gravatar_image_tag', '~> 1.2'
+gem 'gravatarify', '~> 3.0.0'
+gem 'carrierwave', '~> 2.0'
+gem "mini_magick"
+# gem 'graphicsmagick', '~> 1.0', '>= 1.0.5'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -52,9 +53,9 @@ group :test do
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '>= 2.15'
   gem 'selenium-webdriver'
-  # gem 'better_errors', '~> 2.4'
-  # gem 'guard', '~> 2.14', '>= 2.14.1'
-  # gem 'guard-livereload', '~> 2.5', '>=2.5.2'
+  gem 'better_errors', '~> 2.4'
+  gem 'guard', '~> 2.14', '>= 2.14.1'
+  gem 'guard-livereload', '~> 2.5', '>=2.5.2'
   # Easy installation and use of web drivers to run system tests with browsers
   gem 'webdrivers'
 end
